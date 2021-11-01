@@ -140,7 +140,7 @@ padding-top:50px;
         }
         .thumbnail > img, .thumbnail a > img {
             display: block;
-            
+            max-width: 100%;
             height: auto;
             margin-right: auto;
             margin-left: auto;
